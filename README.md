@@ -76,7 +76,7 @@ Building
 - Clone the repository:
 
   ```sh
-  git clone https://github.com/my/repo.git
+  git clone https://github.com/OnionMastori2/zoids.git
   ```
 
 - Copy your game's disc image to `orig/GZSE70`.
