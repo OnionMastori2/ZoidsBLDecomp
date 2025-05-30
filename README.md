@@ -1,9 +1,11 @@
-decomp-toolkit Project Template
+Zoids: Battle Legends Recompiled
 ===============================
 
-If starting a new GameCube / Wii decompilation project, this repository can be used as a scaffold.
+A work-in-progress decompilation of Zoids: Battle Legends.
 
-See [decomp-toolkit](https://github.com/encounter/decomp-toolkit) for background on the concept and more information on the tooling used.
+This repository does not contain any game assets or assembly whatsoever. An existing copy of the game is required.
+
+Supported versions:
 
 Documentation
 -------------
