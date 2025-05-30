@@ -5,20 +5,20 @@ Zoids: Battle Legends
 <!--
 Replace with your repository's URL.
 -->
-[Build Status]: https://github.com/zeldaret/tww/actions/workflows/build.yml/badge.svg
-[actions]: https://github.com/zeldaret/tww/actions/workflows/build.yml
+[Build Status]: 
+[actions]: 
 <!--
 decomp.dev progress badges
 See https://decomp.dev/api for an API overview.
 -->
-[Code Progress]: https://decomp.dev/zeldaret/tww.svg?mode=shield&measure=code&label=Code
-[Data Progress]: https://decomp.dev/zeldaret/tww.svg?mode=shield&measure=data&label=Data
-[progress]: https://decomp.dev/zeldaret/tww
+[Code Progress]: 
+[Data Progress]: 
+[progress]:
 <!--
 Replace with your Discord server's ID and invite URL.
 -->
-[Discord Badge]: https://img.shields.io/discord/727908905392275526?color=%237289DA&logo=discord&logoColor=%23FFFFFF
-[discord]: https://discord.gg/hKx3FJJgrV
+[Discord Badge]:
+[discord]
 
 A work-in-progress decompilation of Zoids: Battle Legends.
 
