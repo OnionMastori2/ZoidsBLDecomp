@@ -5,20 +5,20 @@ Zoids: Battle Legends
 <!--
 Replace with your repository's URL.
 -->
-[Build Status]: 
-[actions]: 
+[Build Status]: https://github.com/onionmastori2/zoidsbldecomp/actions/workflows/build.yml/badge.svg
+[actions]: https://github.com/onionmastori2/zoidsbldecomp/actions/workflows/build.yml
 <!--
 decomp.dev progress badges
 See https://decomp.dev/api for an API overview.
 -->
-[Code Progress]: 
-[Data Progress]: 
-[progress]:
+[Code Progress]: https://decomp.dev/onionmastori2/zoidsbldecomp.svg?mode=shield&measure=code&label=Code
+[Data Progress]: https://decomp.dev/onionmastori2/zoidsbldecomp.svg?mode=shield&measure=data&label=Data
+[progress]: https://decomp.dev/onionmastori2/zoidsbldecomp
 <!--
 Replace with your Discord server's ID and invite URL.
 -->
-[Discord Badge]:
-[discord]
+[Discord Badge]: 
+[discord]:
 
 A work-in-progress decompilation of Zoids: Battle Legends.
 
