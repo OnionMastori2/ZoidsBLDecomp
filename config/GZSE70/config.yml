@@ -1,7 +1,7 @@
 # See config.example.yml for documentation.
 object_base: orig/GZSE70
 object: sys/main.dol
-hash: 0123456789abcdef0123456789abcdef01234567
+hash: 873470a8dd7a38e22dbabb878d3dd11b3862375f
 symbols: config/GZSE70/symbols.txt
 splits: config/GZSE70/splits.txt
 # Change this to match the linker version.
