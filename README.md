@@ -20,7 +20,7 @@ Replace with your Discord server's ID and invite URL.
 [Discord Badge]: 
 [discord]:
 
-# HELP WANTED: Looking for more folks to help me take on this project.
+HELP WANTED: Looking for more folks to help me take on this project.
 
 A work-in-progress decompilation of Zoids: Battle Legends.
 
