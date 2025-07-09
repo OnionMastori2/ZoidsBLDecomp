@@ -20,6 +20,8 @@ Replace with your Discord server's ID and invite URL.
 [Discord Badge]: 
 [discord]:
 
+# HELP WANTED: Looking for more folks to help me take on this project.
+
 A work-in-progress decompilation of Zoids: Battle Legends.
 
 This repository does **not** contain any game assets or assembly whatsoever. An existing copy of the game is required.
