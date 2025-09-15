@@ -20,8 +20,6 @@ Replace with your Discord server's ID and invite URL.
 [Discord Badge]: 
 [discord]:
 
-**HELP WANTED**: Looking for more folks to help me take on this project.
-
 A work-in-progress decompilation of Zoids: Battle Legends.
 
 This repository does **not** contain any game assets or assembly whatsoever. An existing copy of the game is required.
@@ -29,6 +27,15 @@ This repository does **not** contain any game assets or assembly whatsoever. An 
 Supported versions:
 
 - GZSE70: Rev 0 (USA)
+
+Goal
+============
+
+The goal of this project is to get a PC and Original Xbox port of Zoids: Battle Legends (and maybe some other ports of the game like PSP, PS Vita, Mac, Dreamcast and PS4). I have always imagine playing the game on a Original Xbox, since it's my favorite console of all time, but there was never an Xbox port of the game, and my dream was to make it happen. Thanks again for stopping by. - Onion
+
+This is currently a project that is frozen, as for a while this was a solo project. I had a lot of personal life going on and I barely had any time to code or be with my cats. If your willing to help me collab and help me take on this project, feel free to DM me on Discord: onionmastori.
+
+It builds an Matching dol file. Currently, this only supports the American version, but maybe one day we will add support for the Japanese version.
 
 Dependencies
 ============
